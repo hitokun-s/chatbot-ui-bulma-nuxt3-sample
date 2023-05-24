@@ -1,0 +1,7 @@
+node_modules
+.idea
+.nuxt
+.env
+dist
+pnpm-lock.yaml
+.eslintrc.cjs
